@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ague, vvhich hitherto amongst all sorts hath beene accounted the physitians shame both for definition and cure, (thus farre hath ignorance prevailed) but that the contrary is manifest, appeareth sufficiently by this following definition: and shall be cured whether tertian, quartern, or quotidian, by me Aaron Streater, physitian of arts in Oxford approved by authority: the Kings Majesties servant in ordinary, and dwelling against the Temple, three houses up in Chancerie-Lane, next house to the golden Anchor.</title>
+            <author>Streater, Aaron, b. 1609 or 10.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61815</idno>
+            <idno type="STC">Wing S5943</idno>
+            <idno type="STC">ESTC R222090</idno>
+            <idno type="EEBO-CITATION">99833320</idno>
+            <idno type="PROQUEST">99833320</idno>
+            <idno type="VID">37796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37796)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2064:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ague, vvhich hitherto amongst all sorts hath beene accounted the physitians shame both for definition and cure, (thus farre hath ignorance prevailed) but that the contrary is manifest, appeareth sufficiently by this following definition: and shall be cured whether tertian, quartern, or quotidian, by me Aaron Streater, physitian of arts in Oxford approved by authority: the Kings Majesties servant in ordinary, and dwelling against the Temple, three houses up in Chancerie-Lane, next house to the golden Anchor.</title>
+                  <author>Streater, Aaron, b. 1609 or 10.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>Printed 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Diseases --  Causes and theories of causation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37796:1" rendition="simple:additions"/>
+            <p> An Ague, VVhich hitherto amongſt all ſorts hath beene accounted the Phyſitians ſhame, both for definition and cure, (thus farre hath ignorance prevailed) but that the contrary is manifeſt, appeareth ſufficiently by this following definition: and ſhall be cured whether <hi>Tertian, Quartern,</hi> or <hi>Quotidian,</hi> by me AARON STREATER, Phyſitian of Arts in <hi>Oxford</hi> approved by Authority: the Kings Majeſties Servant in Ordinary, and dwelling againſt the Temple, three houſes up in <hi>Chancerie-Lane,</hi> next houſe to the golden Anchor.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>At London Printed 1641.</p>
+            <pb facs="tcp:37796:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37796:2"/>
+            <head>An Ague,</head>
+            <p>
+               <seg rend="decorInit">I</seg>S either interpolate or continuall, in<g ref="char:EOLhyphen"/>gendred of a melancholick humour, or a ſplenitick effect, whoſe rigour is in the beginning not vehement: but like the cold, men feele in moſt vehement Froſts, which in proceſſe of time augmenteth, that the parties are like a ſtone, or other cold thing, which is the cauſe of ſo much inter<g ref="char:EOLhyphen"/>miſſion, why this day, and that day, and not continually: nature working out this coldneſſe, cauſeth generally a moſt vehement heat, which being over, the Parties reſt in eaſe, untill ſuch time, be it longer or ſhorter, the melancholick humor, putrified in the veſſels, hath the predominance, and ſo returneth to his old biace againe.</p>
+            <p>Upon the obſtruction of the liver, by an abundant of chol<g ref="char:EOLhyphen"/>ler, proceeding from a ſalt rhewme that commeth from the braine, converted into a putrified phlegme oppreſſing the ſtomack, and putrifying the empty veines adjoyning to the heart; and well may they be ſo, when as the liver for ob<g ref="char:EOLhyphen"/>ſtruction ſake cannot ſend his vitall and Spring bloud, to nouriſh and revive the moſt vitall part, the heart; where<g ref="char:EOLhyphen"/>upon lyeth a faſt bak'd putrified matter, ſome greene, ſome black, ſome yellow, as experience ſhewes: and untill this be diſſolved and taken away, help cannot be expected, for if the rhewme be ſalt, the liver obſtructed, the ſtomack op<g ref="char:EOLhyphen"/>preſſed
+<pb n="2" facs="tcp:37796:3"/> with phlegme, the adjacent veines to the heart pu<g ref="char:EOLhyphen"/>trified, the ſpleene decayed, the kidnies by their ſalt gravell waſted, the ſtone in the bladder ingendred, the leggs by the ſalt humour falling downe, ſwollen; whereby the Dropſie, and Gowt are ingendred, with many more diſeaſes.</p>
+            <p>Say not therefore it is but an Ague, but a Feaver, I ſhall weare it out: upon ſome violent Medicine, or three or foure Fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me times by the great help of nature it may depart: but if it hath continued longer, and no remedy found, as thou loveſt thy health and life dally not with this diſeaſe.</p>
+            <p>Wee muſt much condemne thoſe that ſtick not to ſay, an Ague is a ſpirit; for Agues and Feavers were diſeaſes our Saviour cured, and ſo no ſpirit.</p>
+            <p>Here wee condemne all Charmes in this caſe, with all thoſe that goe to Sorcerers, Witches, Cunning men, or Cun<g ref="char:EOLhyphen"/>ning women, as they are called, with the ſeaventh ſonne: for in thus doing, they leave God in his ordinance, and em<g ref="char:EOLhyphen"/>brace the devill himſelfe. For be aſſured, i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you uſe lawfull meanes in this diſeaſe, you may expect as fully and as really cure and health, as in any other ſicknes or diſeaſe what ever: ſo farre forth as it ſhall ſtand with Gods glory, and your good.</p>
+            <p>One word more by the way, but yet to the purpoſe, let Italians and French let bloud as they pleaſe in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir hot Countries: but for our Engliſh that are there, and deſire to ſee home againe, I ſay let th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m beware of loſſe of bloud, leſt they come home by weeping croſſe, fall into dead Pal<g ref="char:EOLhyphen"/>ſies, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch is a cuſtomary thing for our Nation to doe; and to frequent our owne Nation here, by their often let<g ref="char:EOLhyphen"/>ting bloud.</p>
+            <p>Let neither any Engliſh Phyſitian, Italian, French, Dutch, Doctor, or elſe, perſwade you in an Ague or Feaver, to be let bloud, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re be a moſt eminent apparance of Death it ſelfe, which a juditious, and honeſt Phyſitian will ſoone deſcry. Nor in any other diſeaſe but as ſeldome as may be, if you deſire comfort and health in Age.</p>
+            <pb n="3" facs="tcp:37796:3"/>
+            <p> And what is here written, I take God to record, is not written for vaine glory ſake, as to be ſeene of men; but one<g ref="char:EOLhyphen"/>ly out of a grownded and experienced good ſucceſſe I have had in the curing of them that have had Feavers of long and ſhort continuance; and as violent a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever were, or I be<g ref="char:EOLhyphen"/>leeve can be; yet did never draw bloud, except it was by Leaches, untill it was ſo, that the parties were recovered, their bloud well purified, and bodies ſetled; then a weeke or fortnight after I have opened a veine, that they might ſtand in their more perfect health.</p>
+            <p>And the reaſons of this my good ſucceſſe, I ſhall be ever willing and ready to give unto any Doctor, or Patient that ſhall require of me.</p>
+            <closer>Gloria tibi Domine.</closer>
+         </div>
+         <div type="account_of_an_autopsy">
+            <pb n="4" facs="tcp:37796:4"/>
+            <p>BEing carried downe from <hi>London</hi> to <hi>South-hampton</hi> by Maſter <hi>Thomas Maſon</hi> September 1640. word was brought me of a Mayd dead, 16 yeares of age: and being requeſted to ſee what Diſeaſe ſhee dyed of, I tooke my Chirurgion with mee, and went, And after ſection or ſearch, I found as followeth, a gallon and a halfe of greene water in the belly, that ſtunk worſe then carrion; under the lyver an Impoſtume as bigg as my fiſt, full of greene black cor<g ref="char:EOLhyphen"/>rupted Matter, and the lyver black and rot: The ſpleene and kidneyes wholly decayed; and the place as black as ſoot: the bowells they were fretted, ulcerated, and rotten. In the cheſſe was two great handfulls of black burnt bloud in duſt or powder: the heart was all ſound, but not a drop of bloud in it: nor one ſpoonfull in the whole body.</p>
+            <p>Here was an Annatomy indeed, skinne
+<pb n="5" facs="tcp:37796:4"/> and bone: and I verily beleeve, that there was no braine left, but that ſhee lived while that was moyſt: the ſent was ſo ill, and I not well, that I forbore to ſearch it.</p>
+            <p>God that knowes the ſecrets of all hearts, knowes this is a truth, and nothing elſe here written.</p>
+            <p>
+               <hi>Arthur Fauſet,</hi> Chirurgion at <hi>South-hampton,</hi> was the man I imployed to cut her up, as ma<g ref="char:EOLhyphen"/>ny there can witneſſe that were preſent.</p>
+            <p>And what of all this may ſome ſay: why this? An eight weeks Ague in the neglect of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, breeds all theſe Diſeaſes, and finally Death.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
